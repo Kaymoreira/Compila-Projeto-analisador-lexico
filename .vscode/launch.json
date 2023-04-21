@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Executar meu-programa.go",
+            "type": "go",
+            "request": "launch",
+            "mode": "debug",
+            "program": "C:/Users/Kayque Moreira/dev/uesc/compiladores/exemplos de analisador lexico/analisadorlexicoemGO/analisadorLexico.go"
+        }
+    ]
+}
